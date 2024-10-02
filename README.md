@@ -36,10 +36,15 @@ To get a more holistic view of Ford's stock and its potential, the following dat
 
 This analysis provides a foundation for understanding Ford's stock performance. However, additional insights from financial reports, industry trends, and macroeconomic factors are essential for a more comprehensive investment decision.
 
----
+## 🛠️ Getting Started
 
-### 📚 Sources:
-- **Stock Data**: [Yahoo Finance](https://finance.yahoo.com/quote/F)
-- **Industry Reports**: [Bloomberg](https://www.bloomberg.com/)
-- **Company News**: [Ford Press Releases](https://media.ford.com/)
+To run this project and scrape your stock market data, follow these steps:
 
+### 1. Install the necessary requirements for the project:
+```bash
+pip install -r requirements.txt
+```bash
+python scrape.py
+```
+
+This will install the necessary dependencies and then scrape the Ford's U.S. stock market data.
