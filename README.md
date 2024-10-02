@@ -43,8 +43,10 @@ To run this project and scrape your stock market data, follow these steps:
 ### 1. Install the necessary requirements for the project:
 ```bash
 pip install -r requirements.txt
+```
+To scrape the ford's stock data:
 ```bash
 python scrape.py
-```bash
+```
 
 This will install the necessary dependencies and then scrape the Ford's U.S. stock market data.
