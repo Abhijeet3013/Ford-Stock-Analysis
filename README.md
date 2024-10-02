@@ -40,7 +40,7 @@ This analysis provides a foundation for understanding Ford's stock performance. 
 
 To run this project and scrape your stock market data, follow these steps:
 
-### 1. Install the necessary requirements for the project:
+### Install the necessary requirements for the project:
 ```bash
 pip install -r requirements.txt
 ```
